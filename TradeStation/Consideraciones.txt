@@ -1,0 +1,19 @@
+Luego de instalar el TradeStation 9.5, y a la hora de poner el REDITUM COMBO que mostraba Mirza 
+en el vídeo de Descarga y configuración de la plataforma, me decía que la versión 3 se hizo con 
+el TradeStation 10 y que primero debe ser actualizado. 
+Con la versión Update 45 del 10/05/2018.
+
+Para acceder a la plataforma cambia un poco nomás. 
+Antes, te aparecía para que puedas seleccionar en un botón Simulated Trading. 
+
+Ahora, ya después de meter tu username y pass te aparece una ventana con un control
+box, para elegir el Trading Simulado o Real.
+
+Tengo que ver el tema de TS si cargué todo muy bien mi formulario W8
+https://www.youtube.com/watch?v=KqjemMojfyw&fbclid=IwAR2x46NpL-OHcbnhC8_A_LWNZ3IidsxNZ3zRHoRXzME39f-6W1HEmlufPTI
+
+Ahí hay un ejemplo. Monetización en facebook.  
+
+
+Este es el enlace para cargar fondos en TS con TC. 
+https://www.youtube.com/watch?v=nVO-mmBfxRY&feature=youtu.be&fbclid=IwAR0tDl1lyceDLwWdWeuPBKx6R5RZLcbMJRX0gY6n9Plh5Z10JU0v73fMsl4
