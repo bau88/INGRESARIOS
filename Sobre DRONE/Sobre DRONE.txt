@@ -81,3 +81,38 @@ https://www.youtube.com/watch?v=dSE_75sQTEY
 Acá hay un robot con velas renko. 
 https://www.youtube.com/watch?v=kEsAhhA8evo
 
+
+CanalIngresariosTeam, [04.05.20 18:12]
+Super perfomance petroleo. DRONE
+
+CanalIngresariosTeam, [04.05.20 18:13]
+Debe prenderser cuando hay mucha volatilidad. En mercados laterales no funciona mucho.
+
+CanalIngresariosTeam, [04.05.20 18:17]
+El volumen inicia un movimiento y finaliza un movimiento.
+
+CanalIngresariosTeam, [04.05.20 18:17]
+O sea, donde hay más volumen es porque inició un movimiento.
+
+#####################################################################
+Interpretaciones de los símbolos o señales. 
+
+Lng 1 Quiere decir que en ese momento se puede abrir una Long Call. El 1 quiere decir que se abre una operación nomás parece, hacia arriba. 
+
+Srt -1 Quiere decir que en ese momento se puede abrir una Long Put. El 1 quiere decir que se abre una operación nomás parece, hacia abajo. 
+
+BEL 0 Quiere decir que en ese momento conviene salir de la operación, ya que hay cansando en los compradores, y si se sale, será en Break Even. 
+O Mary parece que dijo que es cuando se estopea. 
+
+BES 0 Lo mismo que el anterior. 
+
+Los 0s creo que significan que se deben de cerrar nomás las operaciones abiertas. 
+
+TPL 0 creo que significa el Take Profit de los Longs. 
+
+TPS 0 creo que significa el Take Profit de los Longs. 
+
+Los 0s creo que significan que se deben de cerrar nomás las operaciones abiertas. 
+
+
+
