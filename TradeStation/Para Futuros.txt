@@ -1,0 +1,53 @@
+Thank you for choosing to chat with us. An agent will be with you shortly.
+Info at 14:03, Aug 14:
+All agents are currently assisting others. Your place in queue is 32. Thank you for your patience.
+Info at 14:05, Aug 14:
+All agents are currently assisting others. Your place in queue is 27. Thank you for your patience.
+Info at 14:07, Aug 14:
+All agents are currently assisting others. Your place in queue is 26. Thank you for your patience.
+Info at 14:09, Aug 14:
+All agents are currently assisting others. Your place in queue is 24. Thank you for your patience.
+Info at 14:11, Aug 14:
+All agents are currently assisting others. Your place in queue is 23. Thank you for your patience.
+Info at 14:13, Aug 14:
+All agents are currently assisting others. Your place in queue is 16. Thank you for your patience.
+Info at 14:15, Aug 14:
+All agents are currently assisting others. Your place in queue is 15. Thank you for your patience.
+Info at 14:17, Aug 14:
+All agents are currently assisting others. Your place in queue is 14. Thank you for your patience.
+Info at 14:17, Aug 14:
+You are now chatting with Andrew.
+Andrew at 14:17, Aug 14:
+Thank you for choosing TradeStation. How may I assist you today?
+You at 14:18, Aug 14:
+hello
+You at 14:18, Aug 14:
+I would like to know how to transfer resources from equities to futures
+You at 14:19, Aug 14:
+how to transfer balance from equities to futures in my account
+Andrew at 14:20, Aug 14:
+You can transfer funds in the Client Center under the Transfer Funds tab > Transfer Cash > SMart transfer
+Andrew at 14:23, Aug 14:
+Were you able to find the page?
+You at 14:23, Aug 14:
+Ok
+You at 14:23, Aug 14:
+thanks
+Andrew at 14:23, Aug 14:
+Your welcome. Is there anything else I can assist you with today?
+You at 14:23, Aug 14:
+and to trade futures I only need to fund my account, it is not like that
+You at 14:24, Aug 14:
+or do I need to fill out another form?
+Andrew at 14:25, Aug 14:
+For security: What is the name of your first pet?
+You at 14:25, Aug 14:
+Koki
+Andrew at 14:26, Aug 14:
+Thank you
+Andrew at 14:26, Aug 14:
+Your futures account is already approved so you just need to fund it to begin trading
+You at 14:26, Aug 14:
+ok, thanks very much
+Andrew at 14:27, Aug 14:
+Your welcome! Thank you for choosing TradeStation and have a great day!

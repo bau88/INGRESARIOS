@@ -2,3 +2,57 @@ https://www.tradestation.com/pricing/options-margin-requirements/?fbclid=IwAR1P3
 
 Enlace que compartió Mirza
 https://www.facebook.com/groups/tribuingresariosmastermind/permalink/226455178652718/
+
+https://www.tradestation.com/pricing/options-margin-requirements/
+Para opciones
+
+https://www.tradestation.com/pricing/futures-margin-requirements/
+Para Futuros
+
+Notas adicionales para clientes que utilizan la tasa de margen intradía reducida (Futuros)
+La tarifa de comercio diario es válida de 8:00 a.m. a 4 p.m. ET de lunes a viernes, para futuros sobre índices de acciones
+ de EE. UU. Se requiere una orden de detención en todo momento sin arriesgar más de la mitad de la tasa de negociación 
+diaria. Ejemplo: el margen inicial de E-mini S&P es de $ 13.200. La tasa de negociación diaria sería la mitad, $ 6,600. 
+Dejar de arriesgar no más de la mitad (en términos de dólares) arriesgaría aproximadamente $ 3300. Esto equivale a unos 
+66 puntos, o 66 dólares en el índice ES, y ese sería el límite máximo permitido. Los clientes deben estar por encima del 
+margen inicial durante la noche o fuera de sus posiciones antes de que finalice la tasa de negociación diaria. Consulte 
+la mesa de operaciones para obtener más detalles.
+
+Se pueden aplicar márgenes de SPAN. Los márgenes requeridos pueden variar de las tarifas publicadas.
+
+Al operar con margen (a veces también denominado "apalancamiento" o "apalancamiento") en su cuenta de futuros, usted 
+reconoce y acepta que TradeStation puede, a su sola discreción, y sin previo aviso, y en cualquier momento, imponer un 
+llamada de margen y liquidar su cuenta, en su totalidad o en parte, para cumplir con dicha llamada de margen y satisfacer 
+o compensar cualquier elemento de débito o saldo de débito, o disminuir o eliminar el apalancamiento, en su cuenta. 
+Además, reconoce y acepta que TradeStation puede, a su entera discreción y sin previo aviso, liquidar cualquier contrato 
+de mes de entrega en su cuenta para prevenir o minimizar el riesgo de entrega, y que dicha liquidación puede ocurrir 
+cinco o más días, dependiendo de el contrato y la evaluación subjetiva del riesgo de TradeStation, antes de la fecha 
+de entrega.
+
+La negociación de futuros no es adecuada para todos los inversores e implica el riesgo de pérdidas. El riesgo de pérdida 
+en futuros puede ser sustancial. Por lo tanto, debe considerar cuidadosamente si dicho comercio es adecuado para su 
+situación financiera. Ninguna declaración dentro de esta página web debe interpretarse como una recomendación para 
+comprar o vender un contrato de futuros o como un consejo de inversión.
+
+Los riesgos habituales asociados con la negociación de contratos de futuros de materias primas también se aplican a la 
+negociación de futuros de Bitcoin. Estos riesgos se pueden ver en el siguiente enlace: 
+https://www.tradestation.com/important-information/. Los clientes que elijan negociar futuros de Bitcoin deben 
+considerar riesgos adicionales importantes que incluyen, entre otros: (a) los contratos de futuros de Bitcoin 
+tienen un historial limitado de negociación en las bolsas de futuros reguladas por EE. UU. (b) El precio del Bitcoin 
+subyacente y los índices en los que se basan los contratos de futuros son altamente volátiles e impredecibles debido a 
+muchos factores; (c) Dado que un número limitado de comerciantes de comisiones de futuros pueden ofrecer operaciones 
+en los contratos de futuros de Bitcoin, puede haber un volumen limitado que podría afectar la eficiencia del mercado 
+y los movimientos de precios; y (d) El riesgo de pérdida puede ser sustancial y podría resultar en que un cliente pierda 
+más que el requisito de margen inicial o de mantenimiento. Como tal, cada cliente debe realizar su propia diligencia 
+debida antes de tomar la decisión de comerciar con estos productos. Consulte el enlace a continuación de la 
+Asociación Nacional de Futuros para obtener más información.
+
+https://www.nfa.futures.org/investors/investor-advisory.html
+
+Además, la Comisión de Comercio de Futuros de Productos Básicos (“CFTC”) ha puesto a disposición una página web de 
+recursos de moneda virtual diseñada para educar e informar al público sobre este tema y sus riesgos. Consulte el enlace a 
+continuación para obtener más información de la CFTC.
+
+http://www.cftc.gov/bitcoin/index.html
+
+

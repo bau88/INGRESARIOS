@@ -6,7 +6,7 @@ MaximilianoArgentina Ingresarios, [27.05.20 11:07]
 Velas Kase las configuras vos depende el activo
 
 MaximilianoArgentina Ingresarios, [27.05.20 11:08]
-y tu pedem te dira . Tienes que calular el ATR segun el tiempo en que veas la grafica . Hay un modulo de Drone .
+y tu pedem te dira . Tienes que calcular el ATR segun el tiempo en que veas la grafica . Hay un modulo de Drone .
 
 Baudelio Báez, [27.05.20 11:26]
 Buenos días
@@ -42,7 +42,7 @@ Kase acciones
 
 Tiene que ver con el volumen del activo .
 
-Este tipo de velas se formas por movimiento del activo . 
+Este tipo de velas se forman por movimiento del activo . 
 si pones Kase 0.50 significa que por cada 0.50 que se mueva el activo que estas siguiendo se va a crear una vela .
 
 Por lo cual si vos tenes un activo que es valor es 4000 como amazon 0.50 es muy poco .
@@ -113,6 +113,10 @@ TPL 0 creo que significa el Take Profit de los Longs.
 TPS 0 creo que significa el Take Profit de los Longs. 
 
 Los 0s creo que significan que se deben de cerrar nomás las operaciones abiertas. 
+
+https://www.simplementetrading.com/es/automated-trading-systems
+
+Ahí hablan de su robot. 
 
 
 
